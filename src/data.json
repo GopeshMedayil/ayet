@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Automobiles",
+        "status": "New",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "automobile",
+        "icon": "Automobiles.png"
+    },
+    {
+        "name": "LifeStyle",
+        "status": "8 completes left",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "lifestyle",
+        "icon": "Lifestyle.png"
+    },
+    {
+        "name": "Food",
+        "status": "8 completes left",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "food",
+        "icon": "Food.png"
+    },
+    {
+        "name": "Automobiles",
+        "status": "New",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "lifestyle",
+        "icon": "Automobiles.png"
+    },
+    {
+        "name": "Technology",
+        "status": "New",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "technology",
+        "icon": "Technology.png"
+    },
+    {
+        "name": "Automobiles",
+        "status": "New",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "lifestyle",
+        "icon": "Automobiles.png"
+    },
+    {
+        "name": "Food",
+        "status": "8 completes left",
+        "timeLeft": "2 Minutes",
+        "qualifications": "3 qualifications",
+        "price": "30000",
+        "category": "food",
+        "icon": "Food.png"
+    }
+]
